@@ -72,7 +72,11 @@ if __name__ == "__main__":
         print("Memory successfully deallocated.")
     """
 
+<<<<<<< HEAD
     """ Part 8: Student Struct Equivalent in Python
+=======
+    """ Part 8: Student Struct
+>>>>>>> template/main
     - Modify myfunctions.py  functionality respectivley for the below section.
     - Each function below must be implemented, the name of the function is written in clean
     code, and therefore easy to understands the functions purpose.

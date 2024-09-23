@@ -1,13 +1,19 @@
-# Assignment Brief: Incremental C Programming Logbook
+# Assignment Brief: Incremental Programming Logbook
+
+## Course Title: Programming for Engineers (Level 5)
+## Deadline: 13th Decemeber 23:00
 
 ## Objective:
 In this assignment, you will demonstrate your understanding of various C programming concepts by incrementally building a program. You will be provided with a `main.c` file containing commented-out method calls. Your task is to implement the necessary functions by creating a `myfunctions.h` header file and a `myfunctions.c` implementation file. You will uncomment each part section in `main.c` as you complete it, remember to build the `main.exe` to test and submit your work incrementally to Git with suitable commit messages.
 
+After completeting the `C` part of the logbook, you will continue with the `Python` part, note that like `C` you need to uncomment where appropriate and implement the functionality. You should create a `myfucntions.py` and import it into the `main.py` script, `import myfunctions`. 
+
 ## 1. You can download the logbook exercises from here: 
 
-  - [Github classroom](https://classroom.github.com/classrooms/114398065-uniofgreenwich-elee1147)
-  - [Github classroom Assignment](https://classroom.github.com/a/dcEp-FSq)
-
+  - Github classroom
+    - [https://classroom.github.com/classrooms/114398065-uniofgreenwich-elee1147](https://classroom.github.com/classrooms/114398065-uniofgreenwich-elee1147)
+  - Github classroom Assignment
+    - [https://classroom.github.com/a/dcEp-FSq](https://classroom.github.com/a/dcEp-FSq)
 
   - Clone the repository i.e:
 
@@ -32,14 +38,20 @@ In this assignment, you will demonstrate your understanding of various C program
 
 2. **Update the README.md**
   - The README.md needs to be updated with the following sections:
-      - Introduciton
-          - Describe the purpose of the repo, keep it less than 100 words.
-          - *hint: Look at the brief*
-      - Prequistes 
-          - What do you need to run the code in this repo, include version numbers of software/packages
-          - *hint: what is available on the university machines that we have/will be using for this module.*
-      - Author
-          - Add your Github User name as a hyper link to your profile
+    - Introduciton
+      - Describe the purpose of the repo, keep it less than 100 words.
+      - *hint: Look at the brief*
+    - Prerequisites 
+      - What do you need to run the code in this repo, include version numbers of software/packages
+      - *hint: what is available on the university machines that we have/will be using for this module.*
+    - Author
+      - Add your Github User name as a hyper link to your profile
+
+\vspace{2em}
+
+\begin{center}
+   *Intentionally left blank*
+\end{center}
 
 ### C: Implement Part 1: Basic Math Operations with Different Data Types
    
@@ -73,22 +85,26 @@ In this assignment, you will demonstrate your understanding of various C program
 - Create one new file: `myfunctions.py`.
 - In `myfunctions.py`, implement the above functions to perform basic math operations.
 
-## Python: Implement Part 6: Basic Python Operations
+## Python: Implement Part 6: Basic Python Bit Wise Operations
 - Uncomment the Part 6 section in `main.py`.
-- In `myfunctions.py`, implement the above functions to perform basic math operations.
+- In `myfunctions.py`, implement the above functions to perform basic bitwise operations.
 
-## Python: Implement Part 7: Basic Python Operations
+## Python: Implement Part 7: Memory Management Simulation (Lists in Python)
 - Uncomment the Part 7 section in `main.py`.
-- In `myfunctions.py`, implement the above functions to perform basic math operations.
+- In `myfunctions.py`, implement the above functions to perform memory management operations.
 
-## Python: Implement Part 8: Basic Python Operations
+## Python: Implement Part 8: Objects and Classes
 - Uncomment the Part 8 section in `main.py`.
-- In `myfunctions.py`, implement the above functions to perform basic math operations.
+- In `myfunctions.py`, implement the above functions to perform Object and class operations.
 
 ### Submission:
 - Ensure that you have committed each part section incrementally with appropriate commit messages.
 - Push your final changes to the remote repository.
-- Provide a link to your repository as part of your submission.
+- The final commit hash is the text you place in the submission point.
+
+\begin{center}
+   *Intentionally left blank*
+\end{center}
 
 ### Grading Criteria:
 - **Commit Quality (20%):** Each commit message should clearly describe the changes made.
@@ -143,8 +159,6 @@ In this assignment, you will demonstrate your understanding of various C program
 ||
 | **Fail (0-29%)** | No incremental submission; commits are made all at once or infrequently. |
 
-\newpage
-
 ## Correctness C 20%
 
 | Criteria | Description |
@@ -162,6 +176,10 @@ In this assignment, you will demonstrate your understanding of various C program
 | **Fail (30-39%)** | Few C functions work correctly; many errors present. |
 ||
 | **Fail (0-29%)** | The C functions do not work correctly or the code does not meet the requirements. |
+
+\begin{center}
+   *Intentionally left blank*
+\end{center}
 
 \newpage
 
@@ -183,7 +201,6 @@ In this assignment, you will demonstrate your understanding of various C program
 ||
 | **Fail (0-29%)** | The Python functions do not work correctly or the code does not meet the requirements. |
 
-\newpage
 
 ## Code Quality 20%
 

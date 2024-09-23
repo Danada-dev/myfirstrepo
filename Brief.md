@@ -10,8 +10,6 @@ After completeting the `C` part of the logbook, you will continue with the `Pyth
 
 ## 1. You can download the logbook exercises from here: 
 
-  - Github classroom
-    - [https://classroom.github.com/classrooms/114398065-uniofgreenwich-elee1147](https://classroom.github.com/classrooms/114398065-uniofgreenwich-elee1147)
   - Github classroom Assignment
     - [https://classroom.github.com/a/dcEp-FSq](https://classroom.github.com/a/dcEp-FSq)
 
@@ -106,6 +104,11 @@ After completeting the `C` part of the logbook, you will continue with the `Pyth
    *Intentionally left blank*
 \end{center}
 
+<<<<<<< HEAD
+=======
+\newpage
+
+>>>>>>> template/main
 ### Grading Criteria:
 - **Commit Quality (20%):** Each commit message should clearly describe the changes made.
 - **Incremental Submission (20%):** Each part section should be committed and pushed incrementally.

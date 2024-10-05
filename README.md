@@ -10,4 +10,4 @@ nano 8.2
 
 ## Author
 
-[Danada-dev](https://github.com/Danada-dev)
+Danada-dev

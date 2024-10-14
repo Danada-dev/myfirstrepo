@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include "myfunctions.h"
 
 /*
 * Only uncomment the sections you are told too. No further modifications to this file should be made.
@@ -25,7 +26,7 @@ int main() {
      - You must add, commit and push your code incrementally
     */
 
-    /* 
+    
     // Test basic math operations with integers
     int_result = add_int(a_int, b_int);
     printf("Integer Addition: %d +, %d = %d\n", a_int, b_int, int_result);
@@ -65,7 +66,7 @@ int main() {
     byte_result = divide_byte(a_byte, b_byte);
     printf("Byte Division: 0x%X , 0x%X = 0x%X\n", a_byte, b_byte, byte_result);
 
-    */
+  
 
     /* Part 2
      - Modify myfunctions.h and myfunctions.c to hold the prototypes and functionality

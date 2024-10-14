@@ -1,5 +1,5 @@
-#ifndef_MYFUNCTIONS_H // guard
-#define_MYFUNCTIONS_H
+#ifndef _MYFUNCTIONS_H // guard
+#define _MYFUNCTIONS_H
 
 int add_int(int a_int, int b_int);
 int subtract_int(int a_int, int b_int);

@@ -1,4 +1,5 @@
 #include "myfunctions.h"
+#include <stdlib.h>
 
 int add_int(int a_int, int b_int){
 
@@ -18,7 +19,7 @@ int multiply_int(int a_int, int b_int){
 int divide_int(int a_int, int b_int){
 
     if (a_int < 1){
-        exit 0;
+        exit; 0;
     }
 
         return a_int / b_int;
@@ -42,7 +43,7 @@ float multiply_float(float a_float, float b_float){
 float divide_float(float a_float, float b_float){
 
         if(a_float < 0.01){
-            exit 0;
+            exit; 0;
         }
 }  
 
